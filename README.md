@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alain GUILLON
-- 👀 I’m interested by the code in general. I want learn at used the backend.
+- 👀 I’m interested by coding in general. I want learn to use the backend.
 - 🌱 I’m currently learning many programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
